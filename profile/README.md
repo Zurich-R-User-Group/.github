@@ -7,7 +7,7 @@ Thanks to our speakers, hosts, and sponsors, our events are completely free.
 
 Visit our website: https://zurich-r-user-group.github.io
 
-Find us on LinkedIn: [https://](https://www.linkedin.com/company/zuerich-r-user-group/)
+Find us on LinkedIn: https://www.linkedin.com/company/zuerich-r-user-group/
 
 Find us on Bluesky: https://bsky.app/profile/ruserszurich.bsky.social
 
